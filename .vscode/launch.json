@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LivrariaApp",
+            "request": "launch",
+            "mainClass": "Livraria.UI.LivrariaApp",
+            "projectName": "Projeto_com_interface Oficial_8e976d5e"
+        },
+        {
+            "type": "java",
+            "name": "LivrariaUI",
+            "request": "launch",
+            "mainClass": "Livraria.UI.LivrariaUI",
+            "projectName": "Projeto_com_interface Oficial_8e976d5e"
+        },
+        {
+            "type": "java",
+            "name": "LivrariaGUI",
+            "request": "launch",
+            "mainClass": "Livraria.UI.LivrariaGUI",
+            "projectName": "Projeto_com_interface Oficial_8e976d5e"
+        },
+        {
+            "type": "java",
+            "name": "LivrariaGUI",
+            "request": "launch",
+            "mainClass": "Livraria.UI.LivrariaGUI",
+            "projectName": "Projeto_com_interface_682491b"
+        },
+        {
+            "type": "java",
+            "name": "LivrariaGUI",
+            "request": "launch",
+            "mainClass": "Livraria.UI.LivrariaGUI",
+            "projectName": "Projeto_sem_interface_a1c23b75"
+        },
+        {
+            "type": "java",
+            "name": "TelaPrincipal",
+            "request": "launch",
+            "mainClass": "Livraria.UI.TelaPrincipal",
+            "projectName": "Projeto_sem_interface_a1c23b75"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Livraria.user.Main",
+            "projectName": "Projeto_sem_interface_a1c23b75"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Livraria.user.Main",
+            "projectName": "App_738cb85d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "user.Usuario",
+            "projectName": "App_738cb85d"
+        },
+        {
+            "type": "java",
+            "name": "MenuComSetas",
+            "request": "launch",
+            "mainClass": "MenuComSetas",
+            "projectName": "App_738cb85d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Oficial.Usuario",
+            "projectName": "App_738cb85d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario(1)",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "App_738cb85d"
+        }
+    ]
+}
