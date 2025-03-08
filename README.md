@@ -57,14 +57,16 @@ funções do projeto.
 🚀 Uso e exemplos:
 
 
+![Captura de tela 2025-03-02 095140](https://github.com/user-attachments/assets/ea7ee7d8-4faa-474a-920e-7fa80d1f7fd8)
+
+![Captura de tela 2025-03-02 095152](https://github.com/user-attachments/assets/d1509f55-482f-4cbf-ad24-b6ae96c4c89e)
+
+![Captura de tela 2025-03-02 095159](https://github.com/user-attachments/assets/19a60fde-24e5-4d3a-a10e-a5b951d30aeb)
+
+![Captura de tela 2025-03-02 095209](https://github.com/user-attachments/assets/b5653a60-dbe8-415f-bfdd-fdc888581493)
 
 
 
-![Captura de tela 2025-03-02 095140](https://github.com/user-attachments/assets/d9d4adea-fd42-4300-923d-276330f1017e)
 
 
-![Captura de tela 2025-03-02 095152](https://github.com/user-attachments/assets/1e1735c7-7b6d-44f3-a10c-539e410b45f7)
 
-![Captura de tela 2025-03-02 095159](https://github.com/user-attachments/assets/606b153c-e8f7-4539-9c06-d9a37629cee8)
-
-![Captura de tela 2025-03-02 095209](https://github.com/user-attachments/assets/80470fb4-f36b-4283-927c-92341c99ac38)
